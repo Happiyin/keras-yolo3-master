@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>dog.1514.jpg</filename>
+	<path>D:\机器学习\可视化\keras-yolo3-master\JPEGImages\dog.1514.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>219</width>
+		<height>199</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>4</ymin>
+			<xmax>215</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

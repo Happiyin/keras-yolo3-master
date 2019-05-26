@@ -1,0 +1,1 @@
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1518.jpg 23,27,182,304,0 166,24,390,301,0

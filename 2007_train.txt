@@ -1,0 +1,22 @@
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1500.jpg 16,10,400,265,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1501.jpg 136,15,329,368,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1502.jpg 96,68,265,236,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1503.jpg 25,18,405,493,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1504.jpg 24,9,385,355,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1505.jpg 5,15,14,18,0 13,31,280,214,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1506.jpg 121,12,286,269,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1507.jpg 6,8,144,249,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1508.jpg 41,25,224,309,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1509.jpg 19,104,448,370,0 39,5,489,155,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1510.jpg 37,13,201,262,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1511.jpg 28,8,186,299,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1512.jpg 53,26,350,356,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1513.jpg 27,4,175,200,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1514.jpg 7,4,215,192,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1515.jpg 10,15,280,349,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1516.jpg 67,28,346,364,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1517.jpg 16,12,196,336,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1520.jpg 30,136,452,340,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1521.jpg 176,49,499,231,0 18,128,248,356,0 1,189,154,358,0 239,206,473,375,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1522.jpg 18,12,429,307,0
+D:\机器学习\可视化\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/dog.1523.jpg 150,89,330,358,0 150,90,334,370,0

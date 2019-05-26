@@ -1,0 +1,4 @@
+Image detection mode
+ Ignoring remaining command line arguments: ./path2your_video,
+model_data/yolo.h5 model, anchors, and classes loaded.
+Input image filename:
